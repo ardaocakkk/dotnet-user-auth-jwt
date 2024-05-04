@@ -1,0 +1,23 @@
+# Visual Studio Code #
+.vscode/
+
+# Visual Studio 2019 #
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Rider #
+.idea/
+
+# User-specific files #
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.vscode
+*/.vscode/
+*.dbmdl
